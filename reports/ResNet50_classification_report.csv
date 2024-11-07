@@ -1,0 +1,13 @@
+,precision,recall,f1-score,support
+00 Anatomia Normal,0.012345679012345678,0.00028571428571428574,0.0005585032113934655,3500.0
+01 Processos Inflamatórios Pulmonares (Pneumonia),0.5354330708661418,0.17435897435897435,0.26305609284332687,390.0
+"02 Maior Densidade (Derrame Pleural, Consolidação Atelectasica, Hidrotorax, Empiema)",0.0,0.0,0.0,0.0
+"03 Menor Densidade (Pneumotorax, Pneumomediastino, Pneumoperitonio)",0.0,0.0,0.0,0.0
+"04 Doenças Pulmonares Obstrutivas (Enfisema, Broncopneumonia, Bronquiectasia, Embolia)",0.0,0.0,0.0,0.0
+"05 Doenças Infecciosas Degenerativas (Tuberculose, Sarcoidose, Proteinose, Fibrose)",0.125,0.002857142857142857,0.00558659217877095,700.0
+"06 Lesões Encapsuladas (Abscessos, Nódulos, Cistos, Massas Tumorais, Metastases)",0.0,0.0,0.0,0.0
+"07 Alterações de Mediastino (Pericardite, Malformações Arteriovenosas, Linfonodomegalias)",0.0,0.0,0.0,0.0
+"08 Alterações do Tórax (Atelectasias, Malformações, Agenesia, Hipoplasias)",0.0,0.0,0.0,0.0
+accuracy,0.015468409586056645,0.015468409586056645,0.015468409586056645,0.015468409586056645
+macro avg,0.07475319443094304,0.01972242572242572,0.029911243137054584,4590.0
+weighted avg,0.07397141049695101,0.015468409586056645,0.023629030931136007,4590.0
